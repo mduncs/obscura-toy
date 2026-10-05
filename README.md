@@ -2,7 +2,7 @@
 
 ## Hello, human
 
-_md's note goes here._
+Made as a neuralese-inspired toy, but it now reads a bit too incomprehensibly. 
 
 ---
 
