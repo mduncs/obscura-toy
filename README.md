@@ -2,7 +2,7 @@
 
 ## Hello, human
 
-_md's note goes here._
+Made as a neuralese inspired toy, but it kind of feels like a gushing conlanger enjoying tryptamines. 
 
 ---
 
